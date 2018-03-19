@@ -1,0 +1,16 @@
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 500px;
+}
+
+.walrus-showing {
+  display: none;
+}
